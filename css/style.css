@@ -1,4 +1,3 @@
-
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Resume v6.0.2 (https://startbootstrap.com/theme/resume)
@@ -473,7 +472,7 @@ mark,
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
